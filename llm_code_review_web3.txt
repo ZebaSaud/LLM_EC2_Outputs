@@ -1,0 +1,1396 @@
+LLM Code Review Results
+Repository: repos\web3.py
+================================================================================
+
+FILE: repos\web3.py\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\setup.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\.project-template\fill_template_vars.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\.project-template\refill_template_vars.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\docs\conf.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\abis.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\async_ens.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\auto.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\base_ens.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\constants.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\contract_data.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\ens.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\exceptions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\_normalization.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\ens\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\newsfragments\validate_files.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\constants.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\datastructures.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\exceptions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\geth.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\logs.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\main.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\manager.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\method.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\module.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\net.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\testing.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\tracing.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\types.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\auto\gethdev.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\auto\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\beacon\api_endpoints.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\beacon\async_beacon.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\beacon\beacon.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\beacon\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\contract\async_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\contract\base_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\contract\contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\contract\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\contract\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\eth\async_eth.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\eth\base_eth.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\eth\eth.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\eth\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\gas_strategies\rpc.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\gas_strategies\time_based.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\gas_strategies\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\attrdict.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\base.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\buffered_gas_estimate.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\filter.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\formatting.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\gas_price_strategy.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\names.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\proof_of_authority.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\pythonic.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\signing.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\stalecheck.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\validation.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\middleware\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\async_base.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\auto.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\base.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\ipc.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\scripts\install_pre_releases.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\scripts\parse_pygeth_version.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619540000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\scripts\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\utils\abi.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\utils\address.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\utils\async_exception_handling.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\utils\caching.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\utils\exception_handling.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\utils\subscriptions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\utils\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\abi.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\abi_element_identifiers.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\async_caching.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\async_transactions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\batching.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\blocks.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contracts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\datatypes.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\decorators.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\empty.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\encoding.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\ens.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\error_formatters_utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\events.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\fee_utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\filters.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\formatters.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\http.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\http_session_manager.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\hypothesis.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\math.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\method_formatters.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\normalizers.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\rpc_abi.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\threads.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\transactions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\type_conversion.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\utility_methods.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\validation.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\windows.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\caching\caching_utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\caching\request_caching_validation.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\caching\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\compat\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\compile_contracts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module_testing\eth_module.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module_testing\go_ethereum_admin_module.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module_testing\go_ethereum_debug_module.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module_testing\go_ethereum_txpool_module.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module_testing\module_testing_utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module_testing\net_module.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module_testing\persistent_connection_provider.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module_testing\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module_testing\web3_module.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\module_testing\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\ambiguous_function_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\arrays_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\bytes_contracts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\constructor_contracts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\contract_caller_tester.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\emitter_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\event_contracts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\extended_resolver.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\fallback_function_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\function_name_tester_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\math_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\offchain_lookup.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\offchain_resolver.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\panic_errors_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\payable_tester.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\receive_function_contracts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\reflector_contracts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\revert_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\simple_resolver.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\storage_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\string_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\tuple_contracts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\_custom_contract_data.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\_utils\contract_sources\contract_data\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\tools\benchmark\main.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\tools\benchmark\node.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\tools\benchmark\reporting.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\tools\benchmark\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\tools\benchmark\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\scripts\release\test_package.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\scripts\release\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\eth_tester\defaults.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\eth_tester\main.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\eth_tester\middleware.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\eth_tester\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\persistent\async_ipc.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\persistent\persistent.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\persistent\persistent_connection.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\persistent\request_processor.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\persistent\subscription_container.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\persistent\subscription_manager.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\persistent\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\persistent\websocket.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\persistent\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\rpc\async_rpc.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\rpc\rpc.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\rpc\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\web3\providers\rpc\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\beacon\test_async_beacon.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\beacon\test_beacon.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\test_library_files.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\test_ens.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\test_get_registry.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\test_get_text.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\test_nameprep.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\test_offchain_resolution.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\test_setup_address.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\test_setup_name.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\test_utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619600000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\test_wildcard_resolution.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\common.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\test_ethereum_tester.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\generate_fixtures\common.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\generate_fixtures\go_ethereum.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\common.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\test_goethereum_http.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\test_goethereum_ipc.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\test_goethereum_ws\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\test_goethereum_ws\test_async_await_w3.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\test_goethereum_ws\test_async_ctx_manager_w3.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\test_goethereum_ws\test_async_iterator_w3.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\integration\go_ethereum\test_goethereum_ws\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\ens\normalization\test_normalize_name_ensip15.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\admin-module\test_admin_addPeer.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\admin-module\test_admin_nodeInfo.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\admin-module\test_admin_peers.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\block-utils\test_select_method_for_block_identifier.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\caching-utils\test_generate_cache_key.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\caching-utils\test_request_caching.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_ambiguous_events.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_ambiguous_functions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_attributes.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_build_transaction.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_caller_interface.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_call_interface.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_class_construction.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_constructor.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_constructor_encoding.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_deployment.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_estimate_gas.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_events.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_events_build_filter.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_example.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_init.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_method_abi_decoding.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_method_abi_encoding.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_method_to_argument_matching.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_panic_errors.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_transact_interface.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_contract_util_functions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_extracting_event_data.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_extracting_event_data_old.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\test_offchain_lookup.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\contracts\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\datastructures\test_datastructures.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\empty-object\test_empty_object_is_falsy.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\test_accounts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\test_block_api.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\test_default_account_api.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\test_eth_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\test_eth_fee_history.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\test_eth_filter.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\test_eth_properties.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\test_gas_pricing.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\test_poa.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-module\test_transactions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\eth-tester-api\test_withdrawals.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\exceptions\test_exceptions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_basic_filter_tests.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_contract_create_filter_topic_merging.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_contract_data_filters.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_contract_get_logs.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_contract_on_event_filtering.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_contract_past_event_filtering.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_contract_topic_filters.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_existing_filter_instance.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_filters_against_many_blocks.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_filter_against_latest_blocks.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_filter_against_pending_transactions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_filter_against_transaction_logs.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\test_utils_functions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\filtering\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\gas-strategies\test_rpc_gas_pricing_strategies.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\gas-strategies\test_time_based_gas_price_strategy.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\manager\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\manager\test_default_middlewares.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\manager\test_middleware_can_be_stateful.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\manager\test_middleware_onion_api.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\manager\test_provider_property.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\manager\test_provider_request_wrapping.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\manager\test_response_formatters.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\method-class\test_method.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\method-class\test_result_formatters.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\middleware\test_attrdict_middleware.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\middleware\test_eth_tester_middleware.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\middleware\test_filter_middleware.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\middleware\test_formatting_middleware.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\middleware\test_gas_price_strategy.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\middleware\test_middleware.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\middleware\test_name_to_address_middleware.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\middleware\test_stalecheck.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\middleware\test_transaction_signing.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\module-class\test_module.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_async_http_provider.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_async_ipc_provider.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_async_tester_provider.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_auto_provider.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_base_provider.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_http_provider.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_http_request_retry.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_ipc_provider.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_provider_init.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_tester_provider.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\providers\test_websocket_provider.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\subscriptions\test_subscriptions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\subscriptions\test_subscription_manager.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\testing-module\test_testing_mine.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\testing-module\test_testing_snapshot_and_revert.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\testing-module\test_testing_timeTravel.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619660000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_abi.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_abi_filtering_by_argument_name.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_abi_is_encodable.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_abi_named_tree.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_address.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_async_transaction.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_attach_modules.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_attributedict.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_caching_utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_construct_event_data_set.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_construct_event_filter_params.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_construct_event_topics.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_datatypes.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_decorators.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_encoding.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_event_filter_builder.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_event_interface.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_fee_utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_formatters.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_http_session_manager.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_is_predefined_block_number.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_is_probably_enum.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_is_recognized_type.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_math.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_method_formatters.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_prepare_transaction_replacement.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_select_filter_method.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_threads.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_validation.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\test_valid_transaction_params.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\utilities\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\web3-module\test_api.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\web3-module\test_attach_modules.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\web3-module\test_client_version.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\web3-module\test_conversions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\web3-module\test_import_and_version.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\web3-module\test_keccak.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\web3-module\test_providers.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\web3-module\test_strict_bytes_type_checking.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\tests\core\web3-module\test_web3_inheritance.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\web3.py\scripts\release\test_package.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619720000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+

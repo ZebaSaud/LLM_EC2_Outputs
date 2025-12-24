@@ -1,0 +1,856 @@
+LLM Code Review Results
+Repository: repos\brownie
+================================================================================
+
+FILE: repos\brownie\pytest_patched.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\setup.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\exceptions.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\typing.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_config.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_c_constants.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_expansion.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_singleton.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\docs\conf.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test_expansion.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\cli\test_cli_accounts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\cli\test_cli_main.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\cli\test_cli_networks.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\cli\test_cli_pm.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\cli\test_console.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_fixed.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_format_input.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_format_output.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_return_value.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_to_address.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_to_bool.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_to_bytes.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_to_decimal.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_to_int.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_to_string.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_to_uint.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\convert\test_wei.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\test_alert.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\test_event.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\test_gas.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\test_main_network.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619900000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\test_multicall.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\test_web3.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\test_brownie_config.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\test_brownie_mix.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\test_project_structure.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\test_scripts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\test_sources.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\test_report_output.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\test_revert_context_manager.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\utils\test_color.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\coverage\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\coverage\test_if_branches.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\coverage\test_require_branches.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\coverage\test_ternery_branches.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_coverage.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_given.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_interactive_console.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_isolation_fixtures.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_isolation_update.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_markers.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_output.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_pm_fixture.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_reverts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_session_fixtures.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_skip_coverage.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\plugin\test_stateful_flag.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\stateful\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\stateful\test_initialize.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\stateful\test_invariant.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\stateful\test_rule.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\stateful\test_setup.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\stateful\test_teardown.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\strategies\test_address.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\strategies\test_array.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\strategies\test_bool.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\strategies\test_bytes.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\strategies\test_contract_strategy.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\strategies\test_decimal.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\strategies\test_integers.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\strategies\test_string.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\test\strategies\test_tuple.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\compiler\test_interfaces.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\compiler\test_main_compiler.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\compiler\test_natspec.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\compiler\test_solidity.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\compiler\test_vyper.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\main\test_contract_syntaxes.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\main\test_deployment_map.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\main\test_interfaces_solc.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\main\test_interfaces_vyper.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\main\test_main_project.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\main\test_recompile.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\packages\test_import.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\packages\test_install.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\project\packages\test_popular_packages.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\account\test_account.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\account\test_accounts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\account\test_account_deploy.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\account\test_account_transfer.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\account\test_ens_account.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\account\test_get_deployment_address.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\account\test_pub_account.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\account\test_save_load.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_contractcall.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_contractconstructor.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_contractcontainer.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_contracttx.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_default_sender.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_ens_contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_interface.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_multiple_projects.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_natspec_info.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_overloaded_method.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_persistence.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_unlinked_library.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\contract\test_verification.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\rpc\conftest.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\rpc\test_attach.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\rpc\test_cache.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\rpc\test_launch.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\state\test_blocks.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\state\test_calls.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\state\test_get_transaction.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\state\test_redo.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\state\test_txhistory.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\state\test_undo.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766619960000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\transaction\test_attributes.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\transaction\test_internal_transfer.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\transaction\test_new_contracts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\transaction\test_required_confirmations.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\transaction\test_revert_msg.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\transaction\test_subcalls.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"16","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\transaction\test_trace.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\network\transaction\test_verbosity.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\tests\data\brownie-test-project\scripts\token.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\convert\datatypes.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\convert\main.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\convert\normalize.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\convert\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\convert\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\account.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\alert.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\contract.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\event.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\main.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\multicall.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\state.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\transaction.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\web3.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\project\build.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\project\flattener.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\project\main.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\project\scripts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\project\sources.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\project\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\coverage.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\fixtures.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\output.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\plugin.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\stateful.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\strategies.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620020000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\utils\docopt.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\utils\hex.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\utils\output.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\utils\sql.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\utils\toposort.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\utils\_color.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\utils\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\accounts.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\bake.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\compile.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\console.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\gui.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\init.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\networks.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\pm.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\run.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\test.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_cli\__main__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-day. Add 10 credits to unlock 1000 free model requests per day","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"50","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620800000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_gui\bases.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_gui\console.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_gui\opcodes.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_gui\report.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_gui\root.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_gui\source.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_gui\styles.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_gui\tooltip.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\_gui\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\managers\base.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\managers\master.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\managers\runner.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\managers\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\test\managers\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\project\compiler\solidity.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\project\compiler\utils.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\project\compiler\vyper.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\project\compiler\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\gas\bases.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\gas\strategies.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\gas\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\middlewares\caching.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\middlewares\catch_tx_revert.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\middlewares\ganache7.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\middlewares\geth_poa.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\middlewares\hardhat.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\middlewares\_setup.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\middlewares\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\rpc\anvil.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\rpc\ganache.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\rpc\geth.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\rpc\hardhat.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
+FILE: repos\brownie\brownie\network\rpc\__init__.py
+--------------------------------------------------------------------------------
+[LLM ERROR] 429 {"error":{"message":"Rate limit exceeded: free-models-per-min. ","code":429,"metadata":{"headers":{"X-RateLimit-Limit":"20","X-RateLimit-Remaining":"0","X-RateLimit-Reset":"1766620080000"},"provider_name":null}},"user_id":"user_37JAhAMYB7iDu540nkExFdBRQF6"}
+
