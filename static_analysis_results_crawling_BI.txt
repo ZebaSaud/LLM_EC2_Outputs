@@ -1,0 +1,405 @@
+Static Analysis Results
+Repository: C:\Users\Administrator\Desktop\repos\Crawling_BlockchainInfo
+================================================================================
+
+FILE: C:\Users\Administrator\Desktop\repos\Crawling_BlockchainInfo\crawling_blockapi.py
+--------------------------------------------------------------------------------
+[PYLINT]
+************* Module crawling_blockapi
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:12:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:13:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:14:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:15:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:16:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:18:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:19:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:20:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:21:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:22:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:23:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:24:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:25:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:26:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:27:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:28:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:29:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:30:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:31:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:32:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:33:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:34:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:35:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:36:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:37:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:38:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:39:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:40:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:41:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:42:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:43:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:44:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:45:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:46:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:50:32: C0303: Trailing whitespace (trailing-whitespace)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:50:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:52:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:53:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:54:0: W0311: Bad indentation. Found 6 spaces, expected 24 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:55:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:56:0: W0311: Bad indentation. Found 6 spaces, expected 24 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:57:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:58:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:60:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:62:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:63:0: W0311: Bad indentation. Found 6 spaces, expected 24 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:64:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:65:0: W0311: Bad indentation. Found 6 spaces, expected 24 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:66:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:67:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:68:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:69:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:71:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:72:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:73:0: C0301: Line too long (112/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:73:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:74:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:75:0: W0311: Bad indentation. Found 6 spaces, expected 24 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:76:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:77:0: C0301: Line too long (103/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:77:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:78:0: C0301: Line too long (119/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:78:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:79:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:80:0: W0311: Bad indentation. Found 6 spaces, expected 24 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:81:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:82:0: C0301: Line too long (118/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:82:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:83:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:85:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:86:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:87:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:88:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:89:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:6:0: E0401: Unable to import 'bs4' (import-error)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:11:0: R0205: Class 'CrawlingBlockApi' inherits from object, can be safely removed from bases in python3 (useless-object-inheritance)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:13:20: W0621: Redefining name 'address' from outer scope (line 85) (redefined-outer-name)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:13:36: W0621: Redefining name 'filename' from outer scope (line 87) (redefined-outer-name)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:18:1: C0116: Missing function or method docstring (missing-function-docstring)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:18:1: R0914: Too many local variables (28/15) (too-many-locals)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:46:4: W0105: String statement has no effect (pointless-string-statement)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:50:4: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:55:5: W0702: No exception type(s) specified (bare-except)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:60:4: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:64:5: W0702: No exception type(s) specified (bare-except)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:71:4: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:76:4: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:18:1: R0915: Too many statements (53/50) (too-many-statements)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:19:6: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:28:9: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:11:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:88:5: E1120: No value for argument 'filename' in constructor call (no-value-for-parameter)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:7:0: C0411: standard import "string" should be placed before third party import "bs4.BeautifulSoup" (wrong-import-order)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:8:0: C0411: standard import "decimal" should be placed before third party import "bs4.BeautifulSoup" (wrong-import-order)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:9:0: C0411: standard import "datetime.datetime" should be placed before third party import "bs4.BeautifulSoup" (wrong-import-order)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:2:0: W0611: Unused import sys (unused-import)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:6:0: W0611: Unused BeautifulSoup imported from bs4 (unused-import)
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:7:0: W0611: Unused import string (unused-import)
+
+[MYPY]
+repos\Crawling_BlockchainInfo\crawling_blockapi.py:88: error: Missing positional argument "filename" in call to "CrawlingBlockApi"  [call-arg]
+Found 1 error in 1 file (checked 1 source file)
+
+[BANDIT]
+Run started:2025-12-26 18:57:28.165389+00:00
+
+Test results:
+>> Issue: [B310:blacklist] Audit url open for permitted schemes. Allowing use of file:/ or custom schemes is often unexpected.
+   Severity: Medium   Confidence: High
+   CWE: CWE-22 (https://cwe.mitre.org/data/definitions/22.html)
+   More Info: https://bandit.readthedocs.io/en/1.9.2/blacklists/blacklist_calls.html#b310-urllib-urlopen
+   Location: C:\Users\Administrator\Desktop\repos\Crawling_BlockchainInfo\crawling_blockapi.py:28:9
+27				print(url)
+28				req = urllib.request.urlopen(url)
+29				res = req.read().decode()
+
+--------------------------------------------------
+
+Code scanned:
+	Total lines of code: 83
+	Total lines skipped (#nosec): 0
+	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 0
+
+Run metrics:
+	Total issues (by severity):
+		Undefined: 0
+		Low: 0
+		Medium: 1
+		High: 0
+	Total issues (by confidence):
+		Undefined: 0
+		Low: 0
+		Medium: 0
+		High: 1
+Files skipped (0):
+
+================================================================================
+
+FILE: C:\Users\Administrator\Desktop\repos\Crawling_BlockchainInfo\crawling_blockinfo.py
+--------------------------------------------------------------------------------
+[PYLINT]
+************* Module crawling_blockinfo
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:9:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:10:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:11:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:12:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:13:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:14:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:15:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:16:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:17:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:18:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:19:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:20:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:21:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:22:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:23:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:24:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:25:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:26:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:27:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:28:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:29:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:30:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:31:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:32:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:33:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:34:0: C0301: Line too long (107/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:34:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:35:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:37:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:38:0: C0301: Line too long (113/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:38:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:39:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:41:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:42:0: C0301: Line too long (113/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:42:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:43:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:45:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:46:0: C0301: Line too long (111/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:46:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:47:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:48:0: C0301: Line too long (105/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:48:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:49:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:51:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:52:0: C0301: Line too long (113/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:52:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:53:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:55:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:56:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:57:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:58:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:59:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:61:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:62:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:63:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:64:0: W0311: Bad indentation. Found 6 spaces, expected 24 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:65:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:66:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:67:0: W0311: Bad indentation. Found 6 spaces, expected 24 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:69:24: C0303: Trailing whitespace (trailing-whitespace)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:69:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:70:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:71:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:72:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:73:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:74:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:75:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:76:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:77:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:78:0: C0301: Line too long (108/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:78:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:79:0: W0311: Bad indentation. Found 6 spaces, expected 24 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:81:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:82:0: C0303: Trailing whitespace (trailing-whitespace)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:83:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:84:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:85:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:86:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:87:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:90:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:91:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:92:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:93:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:94:0: W0311: Bad indentation. Found 5 spaces, expected 20 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:95:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:96:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:97:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:98:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:99:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:100:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:101:0: C0301: Line too long (138/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:101:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:102:0: C0301: Line too long (104/100) (line-too-long)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:102:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:105:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:106:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:107:0: C0303: Trailing whitespace (trailing-whitespace)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:108:0: C0305: Trailing newlines (trailing-newlines)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:4:0: E0401: Unable to import 'bs4' (import-error)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:8:0: C0115: Missing class docstring (missing-class-docstring)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:8:0: R0205: Class 'CrawlingBlockInfo' inherits from object, can be safely removed from bases in python3 (useless-object-inheritance)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:13:1: C0116: Missing function or method docstring (missing-function-docstring)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:13:1: R0914: Too many local variables (29/15) (too-many-locals)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:18:6: W0621: Redefining name 'a' from outer scope (line 105) (redefined-outer-name)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:21:9: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:13:1: R0912: Too many branches (24/12) (too-many-branches)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:13:1: R0915: Too many statements (62/50) (too-many-statements)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:14:6: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:74:10: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:24:3: W0612: Unused variable 'bitinfourl' (unused-variable)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:8:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:5:0: C0411: standard import "string" should be placed before third party import "bs4.BeautifulSoup" (wrong-import-order)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:6:0: C0411: standard import "decimal" should be placed before third party import "bs4.BeautifulSoup" (wrong-import-order)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:1:0: W0611: Unused import sys (unused-import)
+repos\Crawling_BlockchainInfo\crawling_blockinfo.py:5:0: W0611: Unused import string (unused-import)
+
+[MYPY]
+Success: no issues found in 1 source file
+
+[BANDIT]
+Run started:2025-12-26 18:57:33.491621+00:00
+
+Test results:
+>> Issue: [B310:blacklist] Audit url open for permitted schemes. Allowing use of file:/ or custom schemes is often unexpected.
+   Severity: Medium   Confidence: High
+   CWE: CWE-22 (https://cwe.mitre.org/data/definitions/22.html)
+   More Info: https://bandit.readthedocs.io/en/1.9.2/blacklists/blacklist_calls.html#b310-urllib-urlopen
+   Location: C:\Users\Administrator\Desktop\repos\Crawling_BlockchainInfo\crawling_blockinfo.py:21:9
+20				url = url + str(a)
+21				req = urllib.request.urlopen(url)
+22				res = req.read()
+
+--------------------------------------------------
+>> Issue: [B310:blacklist] Audit url open for permitted schemes. Allowing use of file:/ or custom schemes is often unexpected.
+   Severity: Medium   Confidence: High
+   CWE: CWE-22 (https://cwe.mitre.org/data/definitions/22.html)
+   More Info: https://bandit.readthedocs.io/en/1.9.2/blacklists/blacklist_calls.html#b310-urllib-urlopen
+   Location: C:\Users\Administrator\Desktop\repos\Crawling_BlockchainInfo\crawling_blockinfo.py:74:10
+73					print(url2)
+74					req = urllib.request.urlopen(url2)
+75					res = req.read()
+
+--------------------------------------------------
+
+Code scanned:
+	Total lines of code: 93
+	Total lines skipped (#nosec): 0
+	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 0
+
+Run metrics:
+	Total issues (by severity):
+		Undefined: 0
+		Low: 0
+		Medium: 2
+		High: 0
+	Total issues (by confidence):
+		Undefined: 0
+		Low: 0
+		Medium: 0
+		High: 2
+Files skipped (0):
+
+================================================================================
+
+FILE: C:\Users\Administrator\Desktop\repos\Crawling_BlockchainInfo\transaction.py
+--------------------------------------------------------------------------------
+[PYLINT]
+************* Module transaction
+repos\Crawling_BlockchainInfo\transaction.py:15:14: C0303: Trailing whitespace (trailing-whitespace)
+repos\Crawling_BlockchainInfo\transaction.py:17:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:18:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:19:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:20:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:21:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:22:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:23:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:24:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:25:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:26:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:27:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:28:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:29:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:30:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:31:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:32:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:33:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:34:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:36:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:37:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:38:0: W0311: Bad indentation. Found 3 spaces, expected 12 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:39:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:40:0: W0311: Bad indentation. Found 4 spaces, expected 16 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:41:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:42:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:43:0: W0311: Bad indentation. Found 2 spaces, expected 8 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:45:0: W0311: Bad indentation. Found 1 spaces, expected 4 (bad-indentation)
+repos\Crawling_BlockchainInfo\transaction.py:48:0: C0304: Final newline missing (missing-final-newline)
+repos\Crawling_BlockchainInfo\transaction.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+repos\Crawling_BlockchainInfo\transaction.py:9:0: E0401: Unable to import 'bs4' (import-error)
+repos\Crawling_BlockchainInfo\transaction.py:13:4: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+repos\Crawling_BlockchainInfo\transaction.py:14:0: C0103: Constant name "tran1" doesn't conform to UPPER_CASE naming style (invalid-name)
+repos\Crawling_BlockchainInfo\transaction.py:36:2: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+repos\Crawling_BlockchainInfo\transaction.py:46:0: C0103: Constant name "tran2" doesn't conform to UPPER_CASE naming style (invalid-name)
+repos\Crawling_BlockchainInfo\transaction.py:10:0: C0411: standard import "string" should be placed before third party import "bs4.BeautifulSoup" (wrong-import-order)
+repos\Crawling_BlockchainInfo\transaction.py:11:0: C0411: standard import "decimal" should be placed before third party import "bs4.BeautifulSoup" (wrong-import-order)
+repos\Crawling_BlockchainInfo\transaction.py:12:0: C0411: standard import "datetime.datetime" should be placed before third party import "bs4.BeautifulSoup" (wrong-import-order)
+repos\Crawling_BlockchainInfo\transaction.py:13:4: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+repos\Crawling_BlockchainInfo\transaction.py:22:7: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+repos\Crawling_BlockchainInfo\transaction.py:5:0: W0611: Unused import sys (unused-import)
+repos\Crawling_BlockchainInfo\transaction.py:8:0: W0611: Unused import csv (unused-import)
+repos\Crawling_BlockchainInfo\transaction.py:9:0: W0611: Unused BeautifulSoup imported from bs4 (unused-import)
+repos\Crawling_BlockchainInfo\transaction.py:10:0: W0611: Unused import string (unused-import)
+repos\Crawling_BlockchainInfo\transaction.py:12:0: W0611: Unused datetime imported from datetime (unused-import)
+
+[MYPY]
+repos\Crawling_BlockchainInfo\transaction.py:41: error: Incompatible types in assignment (expression has type "Decimal", variable has type "str")  [assignment]
+Found 1 error in 1 file (checked 1 source file)
+
+[BANDIT]
+Run started:2025-12-26 18:57:37.642210+00:00
+
+Test results:
+>> Issue: [B310:blacklist] Audit url open for permitted schemes. Allowing use of file:/ or custom schemes is often unexpected.
+   Severity: Medium   Confidence: High
+   CWE: CWE-22 (https://cwe.mitre.org/data/definitions/22.html)
+   More Info: https://bandit.readthedocs.io/en/1.9.2/blacklists/blacklist_calls.html#b310-urllib-urlopen
+   Location: C:\Users\Administrator\Desktop\repos\Crawling_BlockchainInfo\transaction.py:22:7
+21		print(url)
+22		req = urllib.request.urlopen(url)
+23		res = req.read().decode()
+
+--------------------------------------------------
+
+Code scanned:
+	Total lines of code: 42
+	Total lines skipped (#nosec): 0
+	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 0
+
+Run metrics:
+	Total issues (by severity):
+		Undefined: 0
+		Low: 0
+		Medium: 1
+		High: 0
+	Total issues (by confidence):
+		Undefined: 0
+		Low: 0
+		Medium: 0
+		High: 1
+Files skipped (0):
+
+================================================================================
+
